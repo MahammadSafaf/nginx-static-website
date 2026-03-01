@@ -94,5 +94,11 @@ Commands used:
 ## 👨‍💻 Author
 Mahammad Safaf
 
+---
 ## 📂 Project Directory Structure
-Project Path:
+Project Location: /var/www/myproject
+
+Files inside project:
+- index.html
+- README.md
+- .git directory
